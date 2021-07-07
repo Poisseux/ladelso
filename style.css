@@ -1,0 +1,19 @@
+#whole_page {
+    background-color: seagreen;
+}
+
+.books-name {
+    color: orangered;
+    font-size: 18px;
+    font-family: helvetica;
+    display: inline;
+
+}
+
+.books-name:hover {
+background-color: white;
+}
+
+h1 {
+    color: skyblue;
+}
